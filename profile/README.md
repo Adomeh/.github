@@ -16,7 +16,7 @@ The translations began as machine translation from the original texts and were t
 
 ### Help make them better
 
-Spotted a mistranslation, a dropped negation or a term used inconsistently? Corrections are welcome from anyone who reads Greek or Arabic, and from anyone who notices that a sentence does not make sense. The translations repository, with a guide for contributors, is coming soon.
+Spotted a mistranslation, a dropped negation or a term used inconsistently? Corrections are welcome from anyone who reads Greek or Arabic, and from anyone who notices that a sentence does not make sense. Open an issue with the [correction form](https://github.com/Adomeh/texts/issues/new?template=correction.yml), or edit the text yourself in **[Adomeh/texts](https://github.com/Adomeh/texts)**, where every work sits beside its Greek or Arabic original. The [contributor guide](https://github.com/Adomeh/texts/blob/main/CONTRIBUTING.md) is short.
 
 ### Licence and sources
 
