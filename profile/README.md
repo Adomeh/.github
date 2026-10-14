@@ -2,9 +2,9 @@
 
 # Adomeh
 
-**Open English translations of the classical physicians, read against the body.**
+**English translations of the classical physicians, read against the body.**
 
-Adomeh reads the physicians who built the medicine of fifteen centuries beside the anatomy they describe. The translations are free for anyone to read, reuse and improve. The atlas that sets them beside a 3D human body is at **[adomeh.com](https://adomeh.com)**.
+Adomeh reads the physicians who built the medicine of fifteen centuries beside the anatomy they describe. The atlas that sets them beside a 3D human body is at **[adomeh.com](https://adomeh.com)**.
 
 | Physician | What is here | Translated from |
 |---|---|---|
@@ -18,9 +18,9 @@ The translations began as machine translation from the original texts and were t
 
 Spotted a mistranslation, a dropped negation or a term used inconsistently? Corrections are welcome from anyone who reads Greek or Arabic, and from anyone who notices that a sentence does not make sense. The translations repository, with a guide for contributors, is coming soon.
 
-### Licence
+### Sources
 
-The translations are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), like the Greek and Arabic texts they are made from (Kühn's Galen as digitised by the First Thousand Years of Greek project, and the Würzburg *Arabic and Latin Corpus* for the *Canon*). Adams's and Brock's English are in the public domain.
+Galen is translated from Kühn's edition as digitised by the First Thousand Years of Greek project, and the *Canon* from the Würzburg *Arabic and Latin Corpus*.
 
 ---
 
