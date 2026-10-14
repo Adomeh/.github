@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Adomeh/.github/main/profile/banner.png" alt="Adomeh: Hippocrates, Galen, Avicenna and Maimonides, the classical physicians read against the body" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Adomeh/.github/main/profile/banner-2026-10-14.png" alt="Adomeh: Hippocrates, Galen, Avicenna and Maimonides, the classical physicians read against the body" width="100%"></p>
 
 # Adomeh
 
